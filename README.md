@@ -8,7 +8,7 @@
    ```
 ## Menggunakan Swagger
 1. Pastikan program sudah berjalan.
-2. Kemudian buka browser pakai url berikut `localost:8888/api/v1/swagger/index.html` atau sesuaikan dengan PORT yang di atur di `.env`.
+2. Kemudian buka browser pakai url berikut `localhost:8888/api/v1/swagger/index.html` atau sesuaikan dengan PORT yang di atur di `.env`.
 
 ## Menggunakan POSTMAN
 1. Untuk memudahkan proses testing API yang sudah di lakukan, gunakan API Client seperti POSTMAN. Download dahulu jika belum punya https://www.postman.com/downloads/
